@@ -15,6 +15,6 @@ Data visualization for fairness analysis
 Clone this repository and install dependencies:  
 
 ```bash
-git clone https://github.com/harpitha2003/Bias-Mitigation-AI.git
-cd Bias-Mitigation-AI
+git clone https://github.com/harpitha2003/bias-mitigation-using-ai-tools.git
+cd bias-mitigation-using-ai-tools
 
